@@ -75,7 +75,7 @@ function App() {
         <EmbedSection title="Google Looker Reports" embeds={lookerEmbeds} />
 
         {/* Google Forms Embeds */}
-        <EmbedSection title="Volunteer Forms" embeds={formsEmbeds} />
+        <EmbedSection title="Forms" embeds={formsEmbeds} />
       </main>
     </div>
   );
