@@ -22,4 +22,4 @@ Our project aims to streamline data management for San Gabriel Valley Habitat fo
 [Demo Video](#) (insert the link here when we done !)
 
 ## Additional Information:
-This project significantly reduces the time spent on data handling for the nonprofit, making the workflow more efficient and scalable. The solution focuses on ease of use, data accuracy, and flexibility to accommodate various data sources.
+This project significantly reduces the time spent on data handling for the nonprofit using paper forms, making the workflow more efficient and scalable. The solution focuses on ease of use, data accuracy, and flexibility to accommodate various data sources.
