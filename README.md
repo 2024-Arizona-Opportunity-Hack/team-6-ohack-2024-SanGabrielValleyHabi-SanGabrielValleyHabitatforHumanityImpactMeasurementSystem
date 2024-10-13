@@ -1,4 +1,4 @@
-
+a
 # 2024_fall Hackathon Project
 
 ## Quick Links
@@ -11,32 +11,24 @@
 @Weeb 0003 (on Slack)
 
 ## Team "team-6-ohack-2024"
-- [Team Member 1](GitHub profile link)
-- [Team Member 2](GitHub profile link)
-- [Team Member 3](GitHub profile link)
-<!-- Add all team members -->
+- Ryan https://github.com/squashyweeb
+- Ismael https://github.com/the37signals1
+- Aiden https://github.com/Ismael0810
+
 
 ## Project Overview
-Brief description of your project and its goals.
+Our project aims to streamline data management for San Gabriel Valley Habitat for Humanity, enhancing their impact analysis. We used surveys for distribution and collection, created a user-friendly dashboard for reading data, and enabled Excel file uploads and manual data entry, all integrated into one website.
+
 
 ## Tech Stack
-- Frontend: 
-- Backend: 
-- Database: 
-- APIs: 
-<!-- Add/modify as needed -->
+- Frontend: HTML, CSS, Google Sheets.
+- Backend: Google Looker Studio, GitHub pages.
+
 
 
 ## Getting Started
 Instructions on how to set up and run your project locally.
 
-```bash
-# Example commands
-git clone [your-repo-link]
-cd [your-repo-name]
-npm install
-npm start
-```
 
 
 ## Your next steps
