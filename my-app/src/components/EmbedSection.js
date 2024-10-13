@@ -1,5 +1,3 @@
-// src/components/EmbedSection.js
-
 import React from 'react';
 import './EmbedSection.css';
 

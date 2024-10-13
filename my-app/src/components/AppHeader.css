@@ -1,22 +1,19 @@
-/* src/components/AppHeader.css */
-
 .app-header {
-    display: flex;
-    align-items: center;
-    padding: 20px;
-    background-color: #4CAF50; /* Green background */
-    color: white;
-    flex-wrap: wrap;
-  }
-  
-  .logo-container {
-    margin-right: 20px;
-  }
-  
-  .logo-image {
-    width: 60px;
-    height: 60px;
-    object-fit: contain;
-    border-radius: 10px;
-  }
-  
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  flex-wrap: wrap;
+}
+
+.logo-container {
+  margin-right: 20px;
+}
+
+.logo-image {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  border-radius: 10px;
+}

@@ -1,47 +1,44 @@
-/* src/components/EmbedSection.css */
-
 .embed-section {
-    margin: 40px 0;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  .embed-section h2 {
-    text-align: center;
-    margin-bottom: 20px;
-    color: #333;
-  }
-  
+  margin: 40px 0;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.embed-section h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.embeds {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.embed-container {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.embed-container:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 768px) {
   .embeds {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
   }
-  
+
   .embed-container {
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    overflow: hidden;
-    transition: transform 0.3s, box-shadow 0.3s;
+    flex: 1 1 calc(33% - 20px);
+    max-width: calc(33% - 20px);
   }
-  
-  .embed-container:hover {
-    transform: scale(1.02);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  
-  @media (min-width: 768px) {
-    .embeds {
-      flex-direction: row;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-  
-    .embed-container {
-      flex: 1 1 calc(33% - 20px);
-      max-width: calc(33% - 20px);
-    }
-  }
-  
+}

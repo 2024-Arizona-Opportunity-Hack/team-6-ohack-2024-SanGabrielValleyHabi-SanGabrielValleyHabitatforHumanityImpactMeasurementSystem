@@ -1,8 +1,6 @@
-// src/components/AppHeader.js
-
 import React from 'react';
 import './AppHeader.css';
-import logo from '../assets/logo.png'; // Ensure you have a logo image in src/assets/
+import logo from '../assets/logo.png'; // Ensure this path is correct
 
 const AppHeader = () => {
   return (
