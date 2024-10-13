@@ -7,16 +7,16 @@ function App() {
   // Replace these URLs with your actual Google Looker and Forms embed URLs
   const lookerEmbeds = [
     {
-      src: 'https://lookerstudio.google.com/embed/reporting/your-looker-report-1',
-      title: 'Looker Report 1',
+      src: 'https://lookerstudio.google.com/reporting/e88c4fd3-9652-4584-a499-fc09b2ba8969',
+      title: 'Looker volunteers',
     },
     {
-      src: 'https://lookerstudio.google.com/embed/reporting/your-looker-report-2',
-      title: 'Looker Report 2',
+      src: 'https://lookerstudio.google.com/reporting/0eb62373-5c84-45e3-beae-a9a489d7bfe3',
+      title: 'home perservation',
     },
     {
-      src: 'https://lookerstudio.google.com/embed/reporting/your-looker-report-3',
-      title: 'Looker Report 3',
+      src: 'https://lookerstudio.google.com/reporting/1d2f7e20-86f4-4d30-8a98-b48f6f85c39b',
+      title: 'Looker home repair',
     },
   ];
 
