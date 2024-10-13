@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/team6-SanGabriel/static/css/main.c0b78a51.css",
+    "main.css": "/team6-SanGabriel/static/css/main.1d64570b.css",
     "main.js": "/team6-SanGabriel/static/js/main.0772bbc0.js",
     "index.html": "/team6-SanGabriel/index.html",
-    "main.c0b78a51.css.map": "/team6-SanGabriel/static/css/main.c0b78a51.css.map",
+    "main.1d64570b.css.map": "/team6-SanGabriel/static/css/main.1d64570b.css.map",
     "main.0772bbc0.js.map": "/team6-SanGabriel/static/js/main.0772bbc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0b78a51.css",
+    "static/css/main.1d64570b.css",
     "static/js/main.0772bbc0.js"
   ]
 }
