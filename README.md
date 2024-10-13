@@ -2,8 +2,8 @@
 
 ## Team Members:
 - **Ryan** - [GitHub](https://github.com/squashyweeb)
-- **Ismael** - [GitHub](https://github.com/the37signals1)
-- **Aiden** - [GitHub](https://github.com/Ismael0810)
+- **Ismael** - [GitHub](https://github.com/Ismael0810)
+- **Aiden** - [GitHub](https://github.com/the37signals1)
 
 ## Slack Channel:
 - [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=team-6-ohack-2024)
