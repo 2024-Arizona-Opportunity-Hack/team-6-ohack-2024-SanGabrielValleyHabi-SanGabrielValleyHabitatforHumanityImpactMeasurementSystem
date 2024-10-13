@@ -22,16 +22,16 @@ function App() {
 
   const formsEmbeds = [
     {
-      src: 'https://docs.google.com/forms/d/e/your-form-id-1/viewform?embedded=true',
-      title: 'Volunteer Form 1',
+      src: 'https://forms.gle/sXTjEU4p8R2B3dHv7',
+      title: 'Volunteer Form',
     },
     {
-      src: 'https://docs.google.com/forms/d/e/your-form-id-2/viewform?embedded=true',
-      title: 'Volunteer Form 2',
+      src: 'https://forms.gle/wUBtYhmj1j6Lefr47',
+      title: 'Home repair application program',
     },
     {
-      src: 'https://docs.google.com/forms/d/e/your-form-id-3/viewform?embedded=true',
-      title: 'Volunteer Form 3',
+      src: 'https://forms.gle/NrJNnxFbptUvbHms7',
+      title: 'Home preservation application',
     },
   ];
 
