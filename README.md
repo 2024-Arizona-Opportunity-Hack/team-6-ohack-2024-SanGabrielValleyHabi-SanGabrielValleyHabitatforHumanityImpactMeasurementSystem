@@ -9,7 +9,7 @@
 - [Team Slack Channel](https://opportunity-hack.slack.com/app_redirect?channel=team-6-ohack-2024)
 
 ## Problem Statement:
-San Gabriel Valley Habitat for Humanity requires a streamlined data management solution to enhance impact analysis. Our solution automates survey distribution and collection, provides a user-friendly dashboard for data visualization, and integrates both Excel file uploads and manual data entry.
+Our project aims to streamline data management for San Gabriel Valley Habitat for Humanity, enhancing their impact analysis. We used surveys for distribution and collection, created a user-friendly dashboard for reading data, and enabled Excel file uploads and manual data entry, all integrated into one website.
 
 ## Tech Stack:
 - **Frontend:** HTML, CSS, Google Sheets
