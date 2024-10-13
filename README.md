@@ -12,7 +12,7 @@
 Our project aims to streamline data management for San Gabriel Valley Habitat for Humanity, enhancing their impact analysis. We used surveys for distribution and collection, created a user-friendly dashboard for reading data, and enabled Excel file uploads and manual data entry, all integrated into one website.
 
 ## Tech Stack:
-- **Frontend:** HTML, CSS, Google Sheets
+- **Frontend:** React.js, Google Sheets
 - **Backend:** Google Looker Studio, GitHub Pages
 
 ## Link to DevPost Project:
