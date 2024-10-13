@@ -11,10 +11,10 @@
 @Weeb 0003 (on Slack)
 
 ## Team "team-6-ohack-2024"
-- [Team Member 1](GitHub profile link)
-- [Team Member 2](GitHub profile link)
-- [Team Member 3](GitHub profile link)
-<!-- Add all team members -->
+- Ryan https://github.com/squashyweeb
+- Ismael https://github.com/the37signals1
+- Aiden https://github.com/Ismael0810
+
 
 ## Project Overview
 Brief description of your project and its goals.
@@ -22,9 +22,7 @@ Brief description of your project and its goals.
 ## Tech Stack
 - Frontend: 
 - Backend: 
-- Database: 
-- APIs: 
-<!-- Add/modify as needed -->
+
 
 
 ## Getting Started
