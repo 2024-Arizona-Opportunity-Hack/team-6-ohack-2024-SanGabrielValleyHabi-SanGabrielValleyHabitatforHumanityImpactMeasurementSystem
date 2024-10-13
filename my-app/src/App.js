@@ -60,6 +60,17 @@ function App() {
           </p>
         </section>
 
+        {/* admin Section */}
+        <section className="section">
+          <h2>For admins</h2>
+          <p>
+            If you would like to change sheet data manually for the San Gabriel Valley Habitat for Humanity, click{' '}
+            <a href="https://docs.google.com/spreadsheets/d/1MS4h04tqbNDo4Q1_ROsEzWk6q8KAXO5Dmnq84a-9BxI/edit?usp=sharing">
+              here
+            </a>
+          </p>
+        </section>
+
         {/* Google Looker Embeds */}
         <EmbedSection title="Google Looker Reports" embeds={lookerEmbeds} />
 
